@@ -44,8 +44,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.plx.im:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
