@@ -12,9 +12,15 @@ http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+http://bt.okmp3.ru:2710/announce
+
+http://bt.poletracker.org:2710/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
+
+http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -22,7 +28,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
+http://seeders-paradise.org:80/announce
+
+http://shubt.net:2710/announce
+
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -49,6 +61,10 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.sbsub.com:2710/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -92,6 +108,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker.7471.top:443/announce
 
 https://tracker.anibt.net:443/announce
@@ -99,8 +117,6 @@ https://tracker.anibt.net:443/announce
 https://tracker.bt4g.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
-
-https://tracker.isbigdick.cc.cd:443/announce
 
 https://tracker.kuroy.me:443/announce
 
